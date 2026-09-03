@@ -7,4 +7,6 @@ The project is based on the Clausura 2025 season. The Mexican league does not ha
 1. [Transfermarkt](https://www.transfermarkt.mx/)
 2. [FBREF](https://fbref.com/en/)
 
+The data I used can be fount in "[datos_completos.xlsx](datos_completos.xlsx)"
+
 The project followed the ideas from Philip Kalinda's article "[Keep It Simplex](https://www.philipkalinda.com/ds9.html)" and Tom McNamara's article "[Finding the Best Lazy Fantasy Football Team](https://statnamara.wordpress.com/2021/02/05/finding-the-best-lazy-fantasy-football-team-using-pulp-in-python/)". 
